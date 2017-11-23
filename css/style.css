@@ -1,14 +1,14 @@
 body {
-	background-color: #563D7C;
+	background-color: gray;
 }
 
 h1 {
-	color: white;
+	color: black;
 	text-align: center;
 }
 
 p {
-	color: white;
+	color: black;
 	padding-right: 50px;
 	padding-left: 50px;
 }
@@ -18,7 +18,7 @@ p {
 }
 
 .lista, li>a {
-	color: white;
+	color: black;
 	text-decoration-line: none;
 }
 

@@ -1,5 +1,5 @@
 body {
-	background-color: #563D7C;
+	background-color: blue;
 }
 
 h1 {
@@ -25,10 +25,12 @@ p {
 .boton {
 	margin-top: 15px;
 	background-color: white;
-	color: #563D7C;
+	color: black;
 	font-weight: bold;
 	text-align:center;
 	margin-left: 40px;
+	padding: 5px;
+	border-radius: 25px;
 }
 
 .imagen_seccion {
